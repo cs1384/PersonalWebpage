@@ -1,0 +1,13 @@
+#controlbar{width:86%;height:50px;margin:0 auto 0 auto;padding:25px 0 0 0;}
+#logo{width:10%;height:48px;border:solid 1px rgb(150,150,150);float:left;}
+#logo img{width:100%;height:100%}
+#nagivation{float:left;font-size:15px;font-family: "Courier New", Georgia, Monospace;}
+#navigation ul, li, a{margin: 0;padding: 0;list-style: none;text-decoration: none;font-size:100%;font-family: "Courier New", Georgia, Monospace;color:rgb(0,119,190)}
+#navigation li{float:left;width:18%;height:48px;line-height:45px;text-align:center;border:solid 1px rgb(150,150,150);background:beige;}
+#search{float:left;width:48%;height:48px;border:solid 1px rgb(150,150,150);background:beige;font-size:100%;font-family: "Courier New", Georgia, Monospace;color:rgb(0,119,190)}
+#search form{float:left;width:70%;height:48px;line-height:45px;text-align:center;background:rgb(185,185,185)}
+#search form input{width:30%;}
+#search form select{width:30%;}
+#search button{float:left;background-color:beige;color:white;height:48px;width:30%;font-size:100%;font-family: "Courier New", Georgia, Monospace;color:rgb(0,119,190)}
+#admin{width:5%;height:48px;border:solid 1px rgb(150,150,150);float:left;}
+#admin img{width:100%;height:100%}

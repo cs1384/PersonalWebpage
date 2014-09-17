@@ -1,0 +1,84 @@
+#menu{position:fixed;top:150px;left:6%;color:white;width:2%;height:140px;}
+#menu div{text-align:center;line-height:35px;width:100%;height:35px;background:rgb(60,179,113);border: solid 1px rgb(150,150,150);font-size:150%;font-family: "Courier New", Georgia, Monospace;color:white}
+
+#intro{width:80%;height:640px;margin:40px auto 0 auto;}
+#intro div{width:55%;font-size:130%;float:left}
+#intro img {width:41%;float:left;margin:0 0 0 4%}
+#intro a{font-family: "Times New Roman", Georgia, Monospace;color:rgb(60,179,113)}
+
+#education{width:80%;height:750px;margin:0 auto 0 auto;padding:70px 0 0 0;}
+#nyu{width:100%}
+#nyu img{float:left;margin:0 2% 0 0;width:10%;}
+#nyu .title{font-size:250%;width:88%;float:left;}
+#nyu .title .left{float:left;text-align:left;width:70%;}
+#nyu .title .right{float:left;text-align:right;width:30%;}
+#nyu .subtitle{font-size:200%;width:88%;float:left;}
+#nyu .subtitle .left{float:left;text-align:left;width:70%;}
+#nyu .subtitle .right{float:left;text-align:right;width:30%;}
+#nyu p{font-size:140%;float:left;width:88%;}
+#nyu p span{font-weight:bold;}
+#nyu p a{font-size:100%;font-family: "Times New Roman", Georgia, Monospace;color:rgb(60,179,113)}
+
+#nthu{width:100%}
+#nthu img{float:left;margin:0 2% 0 0;width:23%;}
+#nthu .title{font-size:250%;width:75%;float:left;}
+#nthu .title .left{float:left;text-align:left;width:80%;}
+#nthu .title .right{float:left;text-align:right;width:20%;}
+#nthu .subtitle{font-size:200%;width:75%;float:left;}
+#nthu .subtitle .left{float:left;text-align:left;width:70%;}
+#nthu .subtitle .right{float:left;text-align:right;width:30%;}
+#nthu p{font-size:140%;float:left;width:75%;margin:10px 0 0 0;}
+#nthu p span{font-weight:bold;}
+#nthu p a{font-size:100%;font-family: "Times New Roman", Georgia, Monospace;color:rgb(60,179,113)}
+
+#ck{width:100%}
+#ck img{float:left;margin:25px 2% 0 0;width:20%}
+#ck .title{font-size:250%;width:52%;float:left;margin-top:30px;}
+#ck .title .left{float:left;text-align:left;width:100%;}
+#ck .subtitle{font-size:200%;width:52%;float:left;}
+#ck .subtitle .left{float:left;text-align:left;width:100%;}
+#ck p{font-size:140%;float:left;width:52%;margin:10px 0 0 0;}
+
+#experience{width:80%;height:750px;margin:0 auto 0 auto;padding:70px 0 0 0;}
+#clipper{width:100%}
+#clipper .txt{width:74%;float:left;}
+#clipper .title{font-size:250%;width:100%;}
+#clipper .title .left{float:left;text-align:left;width:80%;}
+#clipper .subtitle{font-size:200%;width:100%;}
+#clipper .subtitle .left{float:left;text-align:left;width:60%;}
+#clipper .image{float:left;margin:0 0 0 2%;width:23%;height:100px;}
+#clipper img{width:100%;}
+#clipper p{font-size:140%;float:left;width:100%;margin:10px 0 0 0;}
+#clipper p a{font-size:100%;font-family: "Times New Roman", Georgia, Monospace;color:rgb(60,179,113)}
+
+#nyutsa{width:100%;margin: 20px 0 0 0;}
+#nyutsa .txt{width:84%;float:left;}
+#nyutsa .title{font-size:250%;width:100%;padding:20px 0 0 0;}
+#nyutsa .title .left{float:left;text-align:left;width:100%;}
+#nyutsa .subtitle{font-size:200%;width:100%;}
+#nyutsa .subtitle .left{float:left;text-align:left;width:60%;}
+#nyutsa .image{float:left;margin:0 0 0 2%;width:14%;height:100px;}
+#nyutsa img{width:100%;}
+#nyutsa p{font-size:140%;float:left;width:84%;margin:20px 0 0 0;}
+#nyutsa p a{font-size:100%;font-family: "Times New Roman", Georgia, Monospace;color:rgb(60,179,113)}
+
+#evergreen{width:100%;margin: 20px 0 0 0;}
+#evergreen .txt{width:78%;float:left;}
+#evergreen .title{font-size:250%;width:100%;padding:20px 0 0 0;}
+#evergreen .title .left{float:left;text-align:left;width:100%;}
+#evergreen .subtitle{font-size:200%;width:100%;}
+#evergreen .subtitle .left{float:left;text-align:left;width:60%;}
+#evergreen .image{float:left;margin:0 0 0 2%;width:20%;height:100px;}
+#evergreen img{width:100%;}
+#evergreen p{font-size:140%;float:left;width:78%;margin:20px 0 0 0;}
+#evergreen p a{font-size:100%;font-family: "Times New Roman", Georgia, Monospace;color:rgb(60,179,113)}
+
+#contact{width:80%;height:750px;margin:0 auto 0 auto;padding:70px 0 0 0;}
+#links{width:56%;height:100%;float:left;}
+#links div{width:100%;height:90px;font-size:150%;margin:0 0 30px 20px;}
+#links img{height:100%;}
+#links form{padding:10px 0 10px 20px;font-size:100%;font-family: "Times New Roman", Georgia, Monospace;color:rgb(60,179,113)}
+#skills{float:left;width:38%;height:500px;border:2px solid rgb(200,200,200);font-family: Arial,Helvetica,sans-serif;color:black;padding:2% 2% 2% 2%;}
+#skills div{font-size:250%;}
+#skills p{font-size:150%;}
+#skills p span{font-weight:bold;display:block;}
