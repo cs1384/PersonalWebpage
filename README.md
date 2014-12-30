@@ -1,4 +1,4 @@
-PersonalWebsite
+Personal_Website
 ===============
 
-http://cs.nyu.edu/~ytl264
+A basic introduction of myself and also provides links to my Computer Science works! http://cs.nyu.edu/~ytl264
